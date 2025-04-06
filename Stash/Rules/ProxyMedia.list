@@ -50,8 +50,8 @@ DOMAIN,hboasialive.akamaized.net
 DOMAIN,hbogoprod-vod.akamaized.net
 DOMAIN,hbolb.onwardsmg.com
 DOMAIN,hbounify-prod.evergent.com
-DOMAIN,discomax.com
-DOMAIN,max.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,max.com
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,kktv-theater.kk.stream
 DOMAIN,ktpx.amazon.com
